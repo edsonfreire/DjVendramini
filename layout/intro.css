@@ -117,6 +117,7 @@ img.ac_bgimage{
 }
 .ac_subitem ul li{
 	margin:10px 0px;
+        text-transform:none;
 }
 .ac_subitem ul li:first-child{
 	font-size:14px;
@@ -128,8 +129,8 @@ img.ac_bgimage{
 span.ac_close{
 	float:right;
 	margin:10px;
-	width:11px;
-	height:12px;
+	width:130px;
+	height:25px;
 	cursor:pointer;
 	background:transparent url(../images/close.png) no-repeat top left;
 	opacity:0.4;

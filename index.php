@@ -22,75 +22,95 @@
             <div class="ac_menu">
                 <ul>
                     <li><!--historia-->
-                        <a href="images/02.jpg">Hist&oacute;ria</a>
+                        <a href="images/historia.jpg">Hist&oacute;ria</a>
                         <div class="ac_subitem">
                             <span class="ac_close"></span>
                             <h2>Hist&oacute;ria</h2>
                             <ul>
-                                <li>Historia</li>
+                                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+                                <li>
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                </li>
+                                <!--
                                 <li>Historia Historia Historia Historia</li>
                                 <li>Historia Historia Historia Historia</li>
                                 <li>Historia Historia Historia Historia</li>
                                 <li>Historia Historia Historia Historia</li>
-                                <li>Historia Historia Historia Historia</li>
+                                -->
                             </ul>
                         </div>
                     </li><!--historia-->
-                    
+
                     <li><!--top 10-->
-                        <a href="images/03.jpg">Top 10</a>
+                        <a href="images/top10.jpg">Top 10</a>
                         <div class="ac_subitem">
                             <span class="ac_close"></span>
                             <h2>Top 10</h2>
                             <ul>
                                 <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+                                <li>
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                </li>
+                                <!--
                                 <li>reperorio repertorio repertorio</li>
-                                <li>reperorio repertorio repertorio</li>
+                                -->
                             </ul>
                         </div>
                     </li><!--top 10-->
                     <li><!--parceiros-->
-                        <a href="images/04.jpg">Parceiros</a>
+                        <a href="images/parceiros.jpg">Parceiros</a>
                         <div class="ac_subitem">
                             <span class="ac_close"></span>
                             <h2>Parceiros</h2>
                             <ul>
                                 <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+                                <li>
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                </li>
+                                <!--
                                 <li>Parceiros Parceiros Parceiros</li>
                                 <li>Parceiros Parceiros Parceiros</li>
                                 <li>Parceiros Parceiros Parceiros</li>
                                 <li>Parceiros Parceiros Parceiros</li>
-                                <li>Parceiros Parceiros Parceiros</li>
+                                -->
                             </ul>
                         </div>
                     </li><!--parceiros-->
-					<li><!--Agenda-->
-                        <a href="images/05.jpg">Agenda</a>
+                    <li><!--agenda-->
+                        <a href="images/agenda1.jpg">Agenda</a>
                         <div class="ac_subitem">
                             <span class="ac_close"></span>
                             <h2>Agenda</h2>
                             <ul>
                                 <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-                                <li>Parceiros Parceiros Parceiros</li>
-                                <li>Parceiros Parceiros Parceiros</li>
-                                <li>Parceiros Parceiros Parceiros</li>
-                                <li>Parceiros Parceiros Parceiros</li>
-                                <li>Parceiros Parceiros Parceiros</li>
+                                <li>
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                </li>
+                                <!--
+                                <li>Contato Contato Contato</li>
+                                <li>Contato Contato Contato</li>
+                                <li>Contato Contato Contato</li>
+                                <li>Contato Contato Contato</li>
+                                -->
                             </ul>
                         </div>
-                    </li><!--Agenda-->
+                    </li><!--agenda-->
                     <li><!--contato-->
-                        <a href="images/06.jpg">Contato</a>
+                        <a href="images/contato.jpg">Contato</a>
                         <div class="ac_subitem">
                             <span class="ac_close"></span>
                             <h2>Contato</h2>
                             <ul>
-                                <li>Sua opni&atilde;o &eacute; muito importante para n&oacute;s. Deixe seu recado, entraremos em contato o mais breve possivel.</li>
+                                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+                                <li>
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                </li>
+                                <!--
                                 <li>Contato Contato Contato</li>
                                 <li>Contato Contato Contato</li>
                                 <li>Contato Contato Contato</li>
                                 <li>Contato Contato Contato</li>
-                                <li>Contato Contato Contato</li>
+                                -->
                             </ul>
                         </div>
                     </li><!--contato-->
@@ -98,6 +118,7 @@
             </div>
         </div>
         <div class="ac_footer">
+            <a class="ac_left" href="https://www.facebook.com/vjricardovendramini/" target="_blank"><img src="images/facebook.png"</a>
             <a href="http://inphws.com.br/" target="_blank"><img src="images/logoInphws.png"</a>
         </div>
         <!-- The JavaScript -->
@@ -217,7 +238,7 @@
                             $sub_menu	= $item.find('.ac_subitem'),
                             $ac_close	= $sub_menu.find('.ac_close');
 							
-                            /* user clicks one item : appetizers | main course | desserts | wines | specials */
+                            /* click for menu item */
                             $el_title.bind('click.Menu', function(e) {
                                 $.when(toggleMenuItems('down')).done(function(){
                                     openSubMenu($item, $sub_menu, el_image);
