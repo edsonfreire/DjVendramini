@@ -27,12 +27,12 @@
                             <span class="ac_close"></span>
                             <h2>Hist&oacute;ria</h2>
                             <ul>
-                                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-                                <li>Agenda Agenda Agenda</li>
-                                <li>Agenda Agenda Agenda</li>
-                                <li>Agenda Agenda Agenda</li>
-                                <li>Agenda Agenda Agenda</li>
-                                <li>Agenda Agenda Agenda</li>
+                                <li>Historia</li>
+                                <li>Historia Historia Historia Historia</li>
+                                <li>Historia Historia Historia Historia</li>
+                                <li>Historia Historia Historia Historia</li>
+                                <li>Historia Historia Historia Historia</li>
+                                <li>Historia Historia Historia Historia</li>
                             </ul>
                         </div>
                     </li><!--historia-->
